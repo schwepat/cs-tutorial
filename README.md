@@ -8,6 +8,8 @@ Program načte ze vstupu dvě celá čísla (a, b) a operátor ('+', '-', '*', '
 
 Program výpíše výsledek této operace. V případě dělení nulou vypíše chybovou hlášku. Dělení stačí celočíselné (nemusí se vypisovat desetiné číslo).
 
+---
+
 **Příklad vstupu 1:**
 ```
 5 + 5
@@ -18,6 +20,8 @@ Program výpíše výsledek této operace. V případě dělení nulou vypíše 
 10
 ```
 
+---
+
 **Příklad vstupu 2:**
 ```
 4 / 7
@@ -27,6 +31,8 @@ Program výpíše výsledek této operace. V případě dělení nulou vypíše 
 ```
 1
 ```
+
+---
 
 **Příklad vstupu 3:**
 ```
