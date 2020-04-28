@@ -2,7 +2,7 @@
 
 ## Cvičení
 
-### 1. - Kalkulačka
+### 1. Kalkulačka
 
 Program načte ze vstupu dvě celá čísla (a, b) a operátor ('+', '-', '*', '/'). Formát vstupu: "a (operátor) b". Nemusí ošetřovat neplatný formát.
 
