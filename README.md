@@ -19,10 +19,20 @@ Program výpíše výsledek této operace. V případě dělení nulou vypíše 
 
 **Příklad vstupu 2:**
 ```
-3 / 0
+4 / 7
 ```
 
 **Příklad výstupu 2:**
+```
+1
+```
+
+**Příklad vstupu 3:**
+```
+3 / 0
+```
+
+**Příklad výstupu 3:**
 ```
 Chyba: dělení nulou.
 ```
