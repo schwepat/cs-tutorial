@@ -5,7 +5,7 @@
 ### 1. - Kalkulačka
 
 Program načte ze vstupu dvě celá čísla (a, b) a operátor ('+', '-', '*', '/'). Formát vstupu: "a (operátor) b". Nemusí ošetřovat neplatný formát.
-Program výpíše výsledek této operace. V případě dělení nulou vypíše chybovou hlášku.
+Program výpíše výsledek této operace. V případě dělení nulou vypíše chybovou hlášku. Dělení stačí celočíselné (nemusí se vypisovat desetiné číslo).
 
 **Příklad vstupu 1:**
 ```
